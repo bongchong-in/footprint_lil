@@ -10,7 +10,7 @@ import { Attribute, GalleryItem, HeroStatCard } from './types';
 export const GLOBAL = {
   statusText: "CURRENT STATUS: ONLINE 🟢",
   fullTitle: "Footprints Lil - Explorer Portfolio",
-  homeLink: "/"
+  homeLink: "/#"
 };
 
 // --- Navigation ---
